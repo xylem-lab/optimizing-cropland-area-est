@@ -1,6 +1,6 @@
-# Integrating Map Accuracy and Sampling Efficiency for Cropland Area Estimation
+# Optimizing Satellite-Based Cropland Area Estimation Through Integrated Map Accuracy Assessment and Stratified Sampling Design Across Six African Countries
 
-This repository contains the code and data for the research paper "Integrating Map Accuracy and Sampling Efficiency for Cropland Area Estimation".
+This repository contains the code and data for the research paper "Optimizing Satellite-Based Cropland Area Estimation Through Integrated Map Accuracy Assessment and Stratified Sampling Design Across Six African Countries".
 
 ## Description
 
