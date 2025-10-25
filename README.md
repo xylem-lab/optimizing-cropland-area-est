@@ -18,7 +18,7 @@ The main analysis is in `Notebook.ipynb`. This notebook covers:
 2.  **Relative efficiency and Area estimation**: Determines the most efficient map for sampling and estimates cropland area.
 3.  **Visualization**: Creates plots for error matrices, relative efficiency, and comparison of area estimates.
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xylem-lab/optimizing-cropland-area-est/blob/main/Notebook.ipynb)
 
 ## Data
 
