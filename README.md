@@ -36,15 +36,11 @@ The `data/` directory contains the datasets used in the analysis:
 If you use this work, please cite it as follows:
 
 ```
-@article{authorintegrating,
-  title={Integrating Map Accuracy and Sampling Efficiency for Cropland Area Estimation},
-  author={},
-  journal={},
-  volume={XXX},
-  pages={YYY-ZZZ},
-  year={},
-  publisher={}
-}
+@misc{xylem-lab_optimizing-cropland-area-est_2025, 
+title={optimizing-cropland-area-est: Optimizing Satellite-Based Cropland Area Estimation Through Integrated Map Accuracy Assessment and Stratified Sampling Design Across Six African Countries}, 
+author={Adebayo, Adebowale Daniel and Nakalembe, Catherine and Skakun, Sergii and Frimpong, Diana Botchway and Ginsburg, Alana and Gadhiya, Yash Hitesh and Adjei, Monica and Kerner, Hannah and Becker-Reshef, Inbal},
+howpublished={\url{https://github.com/xylem-lab/optimizing-cropland-area-est}}, year={2025}, 
+note={GitHub repository; accessed on 28 November 2025} }
 ```
 
 ## Credits
