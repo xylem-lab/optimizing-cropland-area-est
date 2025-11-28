@@ -56,3 +56,7 @@ If you use this work, please cite it as follows:
 - Skakun, S. (2025). The impact of map accuracy on area estimation with remotely sensed data within the stratified random sampling design. *Remote Sensing of Environment*, 326, 114805.
 - Stehman, S. V. (2014). Estimating area and map accuracy for stratified random sampling when the strata are different from the map classes. *International Journal of Remote Sensing*, 35 (13), 4923-4939.
 - Olofsson, P., Foody, G. M., Herold, M., Stehman, S. V., Woodcock, C. E., & Wulder, M. A. (2014). Good practices for estimating area and assessing accuracy of land change. *Remote Sensing of Environment*, 148, 42-57.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details.
